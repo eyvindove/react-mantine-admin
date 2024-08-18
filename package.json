@@ -14,6 +14,7 @@
   "dependencies": {
     "@mantine/charts": "^7.12.1",
     "@mantine/core": "^7.12.1",
+    "@mantine/form": "^7.12.1",
     "@mantine/hooks": "^7.12.1",
     "@mantine/notifications": "^7.12.1",
     "@mantinex/mantine-logo": "^1.0.1",

@@ -29,16 +29,16 @@ const navbarOptions: NavbarItem[] = [
   {
     label: 'Auth',
     href: '/',
-    disabled: true,
     leftSection: <IconLockAccess size='16' />,
     children: [
       {
         label: 'Register',
-        href: '/',
+        href: '/register',
+        disabled: true,
       },
       {
         label: 'Login',
-        href: '/',
+        href: '/login',
       },
     ],
   },
