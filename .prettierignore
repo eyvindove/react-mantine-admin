@@ -1,0 +1,14 @@
+# Ignore artifacts:
+build
+coverage
+
+.next
+.cache
+.lintstagedrc.js
+node_modules
+public
+next-env.d.ts
+next.config.mjs
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
